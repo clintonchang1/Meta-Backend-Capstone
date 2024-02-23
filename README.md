@@ -1,21 +1,10 @@
-superuser
+Superuser username: clinton
+password: clinton1!
+email: clinton@littlelemon.com
 
-clinton
-clinton@littlelemon.com
-clinton1!
-clinton1!
-
-
-
-New user
-valentina
-valentina@littlelemon.com
-val1231!
-
-
-jack
-jack@littlelemon.com
-jack.s1!
+Additional username: valentina
+password: val1231!
+email: valentina@littlelemon.com
 
 # Meta-Backend-Capstone
 
